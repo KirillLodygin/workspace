@@ -1,1 +1,3 @@
-import { hello } from '~/js/app';
+import './index.sass';
+
+const app = document.querySelector<HTMLDivElement>('.app');
